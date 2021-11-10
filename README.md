@@ -1,2 +1,2 @@
 # C
- Códigos em C
+ Exercícios em C

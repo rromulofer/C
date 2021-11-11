@@ -1,3 +1,5 @@
+//Nome na vertical em escada
+
 #include <stdio.h>
 #include <string.h>
 

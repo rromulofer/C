@@ -8,7 +8,7 @@ int main()
 	char nome[50];
 	int contador, contador2, contador3=0, tamanho;
 	
-	printf("entre com um nome\n");
+	printf("Digite uma palavra: ");
 	scanf("%[^\n]s", nome);
 	
 	tamanho = strlen(nome);

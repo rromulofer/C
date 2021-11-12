@@ -10,7 +10,7 @@ int main()
 	
 	printf("Digite uma palavra: ");
 	scanf("%[^\n]s", nome);
-	
+	printf("\n");
 	tamanho = strlen(nome);
 	
 	for(contador = 0; contador < tamanho; contador++)
